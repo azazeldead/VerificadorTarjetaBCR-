@@ -16,7 +16,7 @@ namespace VerificadorTarjetaBCR
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Verificar());
+            Application.Run(new Verify());
         }
     }
 }
