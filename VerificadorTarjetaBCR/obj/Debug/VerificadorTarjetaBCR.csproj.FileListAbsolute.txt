@@ -1,0 +1,9 @@
+C:\Users\Fran\Documents\Visual Studio 2019\Projects\VerificadorTarjetaBCR\VerificadorTarjetaBCR\bin\Debug\VerificadorTarjetaBCR.exe.config
+C:\Users\Fran\Documents\Visual Studio 2019\Projects\VerificadorTarjetaBCR\VerificadorTarjetaBCR\bin\Debug\VerificadorTarjetaBCR.exe
+C:\Users\Fran\Documents\Visual Studio 2019\Projects\VerificadorTarjetaBCR\VerificadorTarjetaBCR\bin\Debug\VerificadorTarjetaBCR.pdb
+C:\Users\Fran\Documents\Visual Studio 2019\Projects\VerificadorTarjetaBCR\VerificadorTarjetaBCR\obj\Debug\VerificadorTarjetaBCR.Verificar.resources
+C:\Users\Fran\Documents\Visual Studio 2019\Projects\VerificadorTarjetaBCR\VerificadorTarjetaBCR\obj\Debug\VerificadorTarjetaBCR.Properties.Resources.resources
+C:\Users\Fran\Documents\Visual Studio 2019\Projects\VerificadorTarjetaBCR\VerificadorTarjetaBCR\obj\Debug\VerificadorTarjetaBCR.csproj.GenerateResource.cache
+C:\Users\Fran\Documents\Visual Studio 2019\Projects\VerificadorTarjetaBCR\VerificadorTarjetaBCR\obj\Debug\VerificadorTarjetaBCR.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Documents\Visual Studio 2019\Projects\VerificadorTarjetaBCR\VerificadorTarjetaBCR\obj\Debug\VerificadorTarjetaBCR.exe
+C:\Users\Fran\Documents\Visual Studio 2019\Projects\VerificadorTarjetaBCR\VerificadorTarjetaBCR\obj\Debug\VerificadorTarjetaBCR.pdb
