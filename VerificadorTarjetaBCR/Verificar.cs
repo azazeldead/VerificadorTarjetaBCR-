@@ -44,7 +44,7 @@ namespace VerificadorTarjetaBCR
             if (values.Contains(card))
                 MessageBox.Show("Su tarjeta se encuentra entre los datos filtrados, póngase en contacto con el Banco");
             else
-                MessageBox.Show("Su número de tarjeta no se encuentra en la lista");
+                MessageBox.Show("Su número de tarjeta no se encuentra en la lista de datos filtrados al 26 de mayo");
         }
 
         static string Hash(string input)
